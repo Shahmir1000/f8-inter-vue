@@ -1,6 +1,7 @@
 # f8-inter-vue
 F8-th Technical Interview Task Details:  Your task is to write a web client using Vue JS that makes a request every second to an API. This API will return six usernames and a number associated to each one. Within the API, pull the six usernames from a database then randomize numbers for each of them between 0 and 100. When the data is returned to the web client, it should then be parsed and displayed in a panel that features pictures for each user, their username, and the number. You should also somehow highlight the user with the highest score. 
 
+# Project Video Link: https://youtu.be/rSd4EMXNLxc
 
 # Instructions For Running the code.
 - Make sure you are in the master branch within github, then pull the repo onto your local environment.
