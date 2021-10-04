@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "username": "Shahmir",
+      "image": "./assets/Shahmir.jpeg",
+      "score": null,
+      "id": 1
+    },
+    {
+      "username": "Muhammad",
+      "image": "./assets/Muhammad.jpeg",
+      "score": null,
+      "id": 2
+    },
+    {
+      "username": "Masood",
+      "image": "./assets/Masood.jpeg",
+      "score": null,
+      "id": 3
+    },
+    {
+      "username": "Bill",
+      "image": "./assets/Bill.jpeg",
+      "score": null,
+      "id": 4
+    },
+    {
+      "username": "Adam",
+      "image": "./assets/Adam.jpeg",
+      "score": null,
+      "id": 5
+    },
+    {
+      "username": "John",
+      "image": "./assets/John.jpeg",
+      "score": null,
+      "id": 6
+    },
+    {
+      "username": "Pablo",
+      "image": "./assets/Pablo.jpeg",
+      "score": null,
+      "id": 7
+    },
+    {
+      "username": "Martin",
+      "image": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "score": null,
+      "id": 8
+    }
+  ]
+}
