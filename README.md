@@ -3,8 +3,7 @@ F8-th Technical Interview Task Details:  Your task is to write a web client usin
 
 
 # Instructions For Running the code.
-
-- pull this repo onto your local environment.
+- Make sure you are in the master branch within github, then pull the repo onto your local environment.
 - open a terminal in the project folder and run commands: 
   - npm install json server -g
   - json-server db.json
